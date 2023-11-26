@@ -9,5 +9,5 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run 1. Latihan Dicoding -Muhamad Fikri-.py
+streamlit run 1. Latihan Dicoding -Muhamad Fikri-1.py
 ```
