@@ -1,12 +1,13 @@
-# Welcome to streamlit
+# Dicoding Collection Dashboard ✨
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+## Setup environment
+```
+conda create --Growia_name-ds python=3.11
+conda activate main-ds
+pip install numpy pandas matplotlib seaborn jupyter streamlit
+```
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
-
-# Run steamlit app
+## Run steamlit app
 ```
 streamlit run 1. Latihan Dicoding -Muhamad Fikri-.py
 ```
