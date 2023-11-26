@@ -97,7 +97,6 @@ df.hist()
 ### Pertanyaan 1:
 """
 
-pip install streamlit
 
 import streamlit as st
 
