@@ -9,5 +9,5 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run Table.py
+streamlit run Notebook.py
 ```
